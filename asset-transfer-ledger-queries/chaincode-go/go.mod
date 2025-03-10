@@ -3,6 +3,7 @@ module github.com/hyperledger/fabric-samples/asset-transfer-ledger-queries/chain
 go 1.23.0
 
 require (
+	github.com/google/uuid v1.6.0
 	github.com/hyperledger/fabric-chaincode-go/v2 v2.0.0
 	github.com/hyperledger/fabric-contract-api-go/v2 v2.2.0
 )
